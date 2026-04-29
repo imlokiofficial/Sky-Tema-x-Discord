@@ -15,4 +15,4 @@ ect!
 
 ### fine :D (non so che dire altro)
 
-Lo trovate [qui]
+Lo trovate [qui](https://github.com/imlokiofficial/Sky-Tema-x-Discord/releases/tag/v1.0.0)
